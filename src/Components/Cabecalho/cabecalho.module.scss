@@ -1,0 +1,99 @@
+$dark01: #212922;
+$dark02: #294936;
+$dark03: #3E6259;
+$dark04: #5B8266;
+$dark05: #AEF6C7;
+
+
+.cabecalho{
+    background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2015_28/1109506/150707-claude-monet-water-lillies-jpo-641a.jpg');
+   background-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+
+    img{
+        border-radius: 100%;
+        width: 300px;
+        
+
+    }
+
+    div{
+        background-color: #ffffff90;
+        width: 60%;
+        padding: 10px;
+        text-align: center;
+        border-radius: 30px;
+        
+
+        p{
+            color: $dark02;
+            font-size: large;
+
+            h2{
+                color: whitesmoke;
+            }
+        }
+
+        div{
+            background-color: #ffffff10;
+            margin: auto;
+            display: flex;
+            justify-content: space-around;
+
+            button{
+                padding: 10px;
+                width: 100px;
+                border-radius: 20px;
+                border: none;
+                color: $dark01;
+                background-color: $dark04;
+                box-shadow: 2px 2px 4px #0000009F ;
+                cursor: pointer;
+                color: whitesmoke;
+
+               &:hover{
+                background-color: $dark03;
+                border-radius: 5px;
+                transition: 0.6s;
+                scale: 1.05;
+               }
+
+                &:active {
+                    background-color: $dark05;
+                    box-shadow: 2px 2px 4px #0000009F inset;
+                    border-radius: 5px;
+
+                  }
+
+                
+            }
+        }
+    }
+}
+
+@media (max-width:900px){
+
+    .cabecalho{
+       flex-direction: column;
+        padding: 10px;
+    
+        img{
+            border-radius: 100%;
+            width: 200px;
+            padding: 10px;
+        }
+    
+        div{
+            background-color: $dark04;
+            width: 90%;
+            padding: 10px;
+            text-align: center;
+    
+            
+        }
+    }
+}
+

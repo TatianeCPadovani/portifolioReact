@@ -1,5 +1,7 @@
 import React from 'react';
 import Cabecalho from './Components/Cabecalho/Cabecalho';
+import Habilidades from './Components/Habilidades/Habilidade';
+
 
 function App() {
   return (
@@ -9,6 +11,9 @@ function App() {
     <Cabecalho />
 
       </header>
+
+    <Habilidades/>
+    
     </div>
   );
 }

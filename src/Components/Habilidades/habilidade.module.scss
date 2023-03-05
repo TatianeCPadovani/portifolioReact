@@ -1,0 +1,53 @@
+.imagens{
+
+    h2{
+        
+    }
+
+    div{
+        display: flex;
+        justify-content: space-around;
+        width: 70%;
+        margin: auto;
+
+        img{
+                margin: 10px;
+
+                &:hover{
+                    scale: 1.1;
+                }
+            }
+}
+  
+}
+
+
+
+@media (max-width:900px){
+    .imagens{
+
+        h2{
+            
+        }
+    
+        div{
+            flex-wrap: wrap;
+          
+    
+            img{
+                    margin: 10px;
+                    width: 70px;
+                   
+    
+                    &:hover{
+                        scale: 1.1;
+                       
+                    }
+
+                  
+                }
+    }
+      
+    }
+
+}

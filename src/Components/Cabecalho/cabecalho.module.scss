@@ -5,7 +5,17 @@ $dark04: #5B8266;
 $dark05: #AEF6C7;
 
 
+
 .cabecalho{
+
+    div{
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+        background-color: $dark04;
+    }
+
+    section{
     background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2015_28/1109506/150707-claude-monet-water-lillies-jpo-641a.jpg');
    background-size: 100%;
     display: flex;
@@ -13,11 +23,15 @@ $dark05: #AEF6C7;
     justify-content: space-around;
     padding: 10px;
 
+    .navegacao{
+        background-color: red;
+        width: 100%;
+   
+    }
+
     img{
         border-radius: 100%;
         width: 300px;
-        
-
     }
 
     div{
@@ -43,57 +57,77 @@ $dark05: #AEF6C7;
             display: flex;
             justify-content: space-around;
 
-            button{
-                padding: 10px;
-                width: 100px;
-                border-radius: 20px;
-                border: none;
-                color: $dark01;
-                background-color: $dark04;
-                box-shadow: 2px 2px 4px #0000009F ;
-                cursor: pointer;
-                color: whitesmoke;
-
-               &:hover{
-                background-color: $dark03;
-                border-radius: 5px;
-                transition: 0.6s;
-                scale: 1.05;
-               }
-
-                &:active {
-                    background-color: $dark05;
-                    box-shadow: 2px 2px 4px #0000009F inset;
-                    border-radius: 5px;
-
-                  }
-
+            
                 
             }
         }
     }
+
 }
+
 
 @media (max-width:900px){
 
-    .cabecalho{
-       flex-direction: column;
+
+
+.cabecalho{
+
+    div{
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+        background-color: $dark04;
+    }
+
+    section{
+        flex-direction: column;
         padding: 10px;
+
+    .navegacao{
+        background-color: red;
+        width: 100%;
+   
+    }
+
+    img{
+        border-radius: 100%;
+        width: 200px;
+        padding: 10px;
+    }
+
+    div{
+        background-color: $dark04;
+        width: 90%;
+        padding: 10px;
+        text-align: center;
+        
+
+
+
     
-        img{
-            border-radius: 100%;
-            width: 200px;
-            padding: 10px;
-        }
-    
-        div{
-            background-color: $dark04;
-            width: 90%;
-            padding: 10px;
-            text-align: center;
-    
-            
         }
     }
+
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

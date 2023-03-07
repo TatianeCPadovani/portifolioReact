@@ -1,0 +1,37 @@
+.linguagem{
+
+    
+    
+    
+    h1{
+        font-size: 45px;
+        margin: 20px;
+        padding-left: 20px;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-bottom-left-radius: 20px;
+    }
+
+    section{
+        height: 10px;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+
+        img{
+            max-height: 100px;
+            margin: 10px;
+        }
+    }
+}
+
+
+@media (max-width:600px){
+
+   
+    img{
+        max-height: 50px;
+
+    }
+
+}

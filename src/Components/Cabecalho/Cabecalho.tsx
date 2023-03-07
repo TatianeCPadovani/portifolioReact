@@ -1,6 +1,6 @@
 import React from "react";
 import styles from './cabecalho.module.scss';
-import BotaoInicio from "../BotaoInicio/BotaoInicio";
+
 
 
 
@@ -10,14 +10,7 @@ function Cabecalho(){
         <div className={styles.cabecalho}>
             
 
-            <div className={styles.navegacao}>
 
-                <BotaoInicio texto="Curriculo"/>
-                <BotaoInicio texto="E-mail"/>
-                <BotaoInicio texto="Projetos"/>
-
-
-            </div>
 
             <section>
 
@@ -34,6 +27,12 @@ function Cabecalho(){
                 </div>
                 
             </section>
+
+                <div className={styles.navegacao}>
+
+                   
+
+               </div>
         </div>
     )
 }

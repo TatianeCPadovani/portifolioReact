@@ -1,19 +1,32 @@
 import React from 'react';
-import Cabecalho from './Components/Cabecalho/Cabecalho';
-import Habilidades from './Components/Habilidades/Habilidade';
+import Apresentacao from './Components/Apresentacao/apresentacao';
+import BarraNavegacao from './Components/BarraNavegacao/barraNavegacao';
+import BotoesAuxiliares from './Components/BotoesAuxiliares/botoesAuxiliares';
 
+import Habilidades from './Components/Habilidades/Habilidade';
+import Linguagem from './Components/Linguagem/linguagem';
+import RedesSociais from './Components/RedesSociais/redesSociais';
+import Sobre from './Components/Sobre/sobre';
+import style from "./estrutura.module.scss";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        
+      <div className={style.componenteUm}>
+           <RedesSociais/>
+           <BotoesAuxiliares/>
+        </div>
 
-    <Cabecalho />
-
+            <BarraNavegacao/>
+            <Apresentacao/>
+            <Sobre/>
+            <Linguagem/>
       </header>
-
-    <Habilidades/>
+      
     
+
     </div>
   );
 }

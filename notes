@@ -1,0 +1,10 @@
+      <div className={style.componenteUm}>
+           <RedesSociais/>
+           <BotoesAuxiliares/>
+        </div>
+
+            <BarraNavegacao/>
+            <Apresentacao/>
+            <Sobre/>
+            <Linguagem/>
+      </header>

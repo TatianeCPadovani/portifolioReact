@@ -12,7 +12,9 @@ $dark05: #AEF6C7;
         display: flex;
         justify-content: space-around;
         padding: 20px;
-        background-color: $dark04;
+        background-color: $dark03;
+       
+       
     }
 
     section{
@@ -22,6 +24,7 @@ $dark05: #AEF6C7;
     align-items: center;
     justify-content: space-around;
     padding: 10px;
+     height: 500px;
 
     .navegacao{
         background-color: red;
@@ -77,15 +80,19 @@ $dark05: #AEF6C7;
         justify-content: space-around;
         padding: 20px;
         background-color: $dark04;
+        
     }
 
     section{
         flex-direction: column;
         padding: 10px;
+        height: auto;
+      
 
     .navegacao{
         background-color: red;
         width: 100%;
+        
    
     }
 
@@ -98,9 +105,10 @@ $dark05: #AEF6C7;
     div{
         background-color: $dark04;
         width: 90%;
+        height: 700px;
         padding: 10px;
         text-align: center;
-        
+      
 
 
 

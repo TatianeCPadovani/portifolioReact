@@ -1,0 +1,12 @@
+.componenteUm{
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width:600px){
+    .componenteUm{
+        display: flex;
+        flex-direction: column;
+    }
+
+}

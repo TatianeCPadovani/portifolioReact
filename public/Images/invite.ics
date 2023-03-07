@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:E. South America Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=tatianecpadovani@gmail.com;RSVP=TRUE:mailto:tatianecpadovani@gm
+	ail.com
+CLASS:PUBLIC
+CREATED:20230306T163409Z
+DESCRIPTION: \n\n__________________________________________________________
+	______________________ \n\nReunião do Microsoft Teams \n\nIngressar no se
+	u computador\, aplicativo móvel ou dispositivo de sala \n\nClique para in
+	gressar na reunião <https://teams.microsoft.com/l/meetup-join/19%3ameetin
+	g_OGJkNTMyYWQtNDI5Mi00OTNiLWE0ZjMtNDk1MDQ5OGI0ZDZm%40thread.v2/0?context=%
+	7b%22Tid%22%3a%229222eb75-59e7-43e8-8407-38db1dae68df%22%2c%22Oid%22%3a%22
+	b4fc3773-d7e9-475d-b430-e4a7612df1d3%22%7d>  \n\nID da Reunião: 211 532 3
+	70 35 \nSenha: kbeTQu \n\nBaixar o Teams <https://www.microsoft.com/en-us/
+	microsoft-teams/download-app>  | Participe na web <https://www.microsoft.c
+	om/microsoft-teams/join-a-meeting> \n\nSaiba mais <https://aka.ms/JoinTeam
+	sMeeting>  | Opções de reunião <https://teams.microsoft.com/meetingOpti
+	ons/?organizerId=b4fc3773-d7e9-475d-b430-e4a7612df1d3&tenantId=9222eb75-59
+	e7-43e8-8407-38db1dae68df&threadId=19_meeting_OGJkNTMyYWQtNDI5Mi00OTNiLWE0
+	ZjMtNDk1MDQ5OGI0ZDZm@thread.v2&messageId=0&language=pt-BR>  \n\n__________
+	______________________________________________________________________ \n\
+	n \n\n
+DTEND;TZID="E. South America Standard Time":20230306T180000
+DTSTAMP:20230306T163409Z
+DTSTART;TZID="E. South America Standard Time":20230306T173000
+LAST-MODIFIED:20230306T163409Z
+LOCATION:Reunião do Microsoft Teams
+ORGANIZER;CN=Marisa.Ferreira:mailto:marisa.ferreira@gateware.com.br
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=pt-br:Tatiane - HD - ABInbev
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000101C154A3050D901000000000000000
+	01000000059953090F7633749A3F249F2487AADCB
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=iso-8859-1"><meta name=Generator c
+	ontent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definiti
+	ons */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 
+	6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 
+	3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4
+	 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2 11
+	 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\,
+	 div.MsoNormal\n	{margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:11.0p
+	t\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\
+	na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n
+		text-decoration:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n	{ms
+	o-style-priority:99\;\n	color:#954F72\;\n	text-decoration:underline\;}\np.
+	msonormal0\, li.msonormal0\, div.msonormal0\n	{mso-style-name:msonormal\;\
+	n	mso-margin-top-alt:auto\;\n	margin-right:0cm\;\n	mso-margin-bottom-alt:a
+	uto\;\n	margin-left:0cm\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sa
+	ns-serif\;}\nspan.EstiloDeEmail18\n	{mso-style-type:personal-compose\;\n	f
+	ont-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n
+		{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n
+		{size:612.0pt 792.0pt\;\n	margin:70.85pt 3.0cm 70.85pt 3.0cm\;}\ndiv.Word
+	Section1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:
+	shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gt
+	e mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="
+	1" />\n</o:shapelayout></xml><![endif]--></head><body lang=PT-BR link="#05
+	63C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><o:p>&nbs
+	p\;</o:p></p><p class=MsoNormal><span style='color:#5F5F5F'>______________
+	__________________________________________________________________</span> 
+	<o:p></o:p></p><div><div style='margin-top:18.0pt\;margin-bottom:15.0pt'><
+	p class=MsoNormal><span style='font-size:18.0pt\;font-family:"Segoe UI"\,s
+	ans-serif\;color:#252424'>Reunião do Microsoft Teams</span><span style='f
+	ont-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span></p><
+	/div><div style='margin-bottom:15.0pt'><div><p class=MsoNormal><b><span st
+	yle='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>
+	Ingressar no seu computador\, aplicativo móvel ou dispositivo de sala</sp
+	an></b><b><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'>
+	 <o:p></o:p></span></b></p></div><p class=MsoNormal><span style='font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://teams.microsoft
+	.com/l/meetup-join/19%3ameeting_OGJkNTMyYWQtNDI5Mi00OTNiLWE0ZjMtNDk1MDQ5OG
+	I0ZDZm%40thread.v2/0?context=%7b%22Tid%22%3a%229222eb75-59e7-43e8-8407-38d
+	b1dae68df%22%2c%22Oid%22%3a%22b4fc3773-d7e9-475d-b430-e4a7612df1d3%22%7d" 
+	target="_blank"><span style='font-size:10.5pt\;font-family:"Segoe UI Semib
+	old"\,sans-serif\;color:#6264A7'>Clique para ingressar na reunião</span><
+	/a> <o:p></o:p></span></p></div><div style='margin-top:15.0pt\;margin-bott
+	om:15.0pt'><div style='margin-bottom:3.0pt'><p class=MsoNormal><span style
+	='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>ID 
+	da Reunião: </span><span style='font-size:12.0pt\;font-family:"Segoe UI"\
+	,sans-serif\;color:#252424'>211 532 370 35</span><span style='font-size:10
+	.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'> </span><span sty
+	le='font-family:"Segoe UI"\,sans-serif\;color:#252424'><br></span><span st
+	yle='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>
+	Senha: </span><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-
+	serif\;color:#252424'>kbeTQu </span><span style='font-family:"Segoe UI"\,s
+	ans-serif\;color:#252424'><o:p></o:p></span></p><div><p class=MsoNormal><s
+	pan style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#25
+	2424'><a href="https://www.microsoft.com/en-us/microsoft-teams/download-ap
+	p" target="_blank"><span style='color:#6264A7'>Baixar o Teams</span></a> |
+	 <a href="https://www.microsoft.com/microsoft-teams/join-a-meeting" target
+	="_blank"><span style='color:#6264A7'>Participe na web</span></a><o:p></o:
+	p></span></p></div></div></div><div style='margin-top:15.0pt\;margin-botto
+	m:18.0pt'><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-ser
+	if\;color:#252424'><a href="https://aka.ms/JoinTeamsMeeting" target="_blan
+	k"><span style='font-size:10.5pt\;color:#6264A7'>Saiba mais</span></a> | <
+	a href="https://teams.microsoft.com/meetingOptions/?organizerId=b4fc3773-d
+	7e9-475d-b430-e4a7612df1d3&amp\;tenantId=9222eb75-59e7-43e8-8407-38db1dae6
+	8df&amp\;threadId=19_meeting_OGJkNTMyYWQtNDI5Mi00OTNiLWE0ZjMtNDk1MDQ5OGI0Z
+	DZm@thread.v2&amp\;messageId=0&amp\;language=pt-BR" target="_blank"><span 
+	style='font-size:10.5pt\;color:#6264A7'>Opções de reunião</span></a> <o
+	:p></o:p></span></p></div></div><div><p class=MsoNormal><span style='color
+	:#5F5F5F'>________________________________________________________________
+	________________</span> <o:p></o:p></p></div><p class=MsoNormal><o:p>&nbsp
+	\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
+

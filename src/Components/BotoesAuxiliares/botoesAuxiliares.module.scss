@@ -1,0 +1,149 @@
+.divBotoesAux{
+
+width: 40%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+
+    div{
+        
+        display: flex;
+        justify-content: center;
+        
+        
+        button{
+            
+            height: 50px;
+            width: 100px;
+            border: none;
+
+
+
+            background-image: -webkit-linear-gradient(45deg, grey 50%, transparent 50%);
+            background-image: linear-gradient(450deg, grey 50%, transparent 50%);
+            background-position: 100%;
+            background-size: 400%;
+            -webkit-transition: background 300ms ease-in-out;
+            transition: background 300ms ease-in-out;
+         
+           
+        }
+
+        .btnNoturno{
+            font-size: 30px;
+
+            border-bottom: 1px solid black;
+            border-left: 1px solid black;
+            border-top: 1px solid black;
+
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+
+            &:hover{
+                background-position: 0;
+               
+            }
+        }
+
+        .btnBug{
+
+            font-size: 30px;
+            
+            border-bottom: 1px solid black;
+            border-right: 1px solid black;
+            border-top: 1px solid black;
+
+             border-top-right-radius: 20px;
+             border-bottom-right-radius: 20px;
+
+              &:hover{
+                background-position: 0;
+                
+            }
+        }
+
+    }
+
+  .cv{
+   
+
+     button{
+            margin: 20px;
+            width: 100px;
+            border: 1px solid black;
+            border-radius: 20px;
+
+
+         
+
+            &:hover{
+                background-position: 0;
+            }
+        }
+    }
+
+    .fourth {
+        border-color: #f1c40f;
+        color: #fff;
+        background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+        background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+        background-position: 100%;
+        background-size: 400%;
+        -webkit-transition: background 300ms ease-in-out;
+        transition: background 300ms ease-in-out;
+      }
+      .fourth:hover {
+        background-position: 0;
+      }
+
+
+
+
+}
+
+@media (max-width:600px){
+
+    .divBotoesAux{
+
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        
+        
+            div{
+                
+                display: flex;
+                justify-content: center;
+                
+                
+                button{
+                    width: 70px;
+                    border: none;
+
+                }
+        
+       
+        
+
+        
+            }
+        
+          .cv{
+
+        
+             button{
+                    margin: 20px;
+
+                }
+            }
+        
+  
+        
+        
+        
+        
+        }
+
+}

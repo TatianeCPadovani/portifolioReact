@@ -12,7 +12,7 @@ function BotoesAuxiliares(){
              </div>
 
              <div className={style.cv}>
-                <button>Baixar CV</button>
+               <a href="TCP_CV.pdf" target="_blank"></a> <button>Baixar CV</button>
              </div>
 
         </div>

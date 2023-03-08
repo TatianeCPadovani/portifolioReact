@@ -3,7 +3,7 @@ import style from "./apresentacao.module.scss";
 
 function Apresentacao(){
     return(
-        <div className={style.foto}>
+        <div id="foto" className={style.foto} >
             <img src="../Images/perfil02.jpg" alt="Foto de perfil" />
             <h4>Estudante de desenvolvimento frontend</h4>
         </div>

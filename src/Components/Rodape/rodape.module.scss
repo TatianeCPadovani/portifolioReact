@@ -1,0 +1,26 @@
+.rodape{
+
+    border-top: grey solid 1px;
+    height: 50px;
+   width: 50%;
+    text-align: center;
+    padding: 25px;
+    margin: auto;
+}
+
+
+@media (max-width:700px){
+
+
+    .rodape{
+
+        border-top: grey solid 1px;
+        height: 50px;
+       width: 50%;
+        text-align: center;
+        padding: 25px;
+        margin: auto;
+    }
+
+
+}

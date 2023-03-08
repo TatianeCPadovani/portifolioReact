@@ -1,4 +1,4 @@
-.linguagem{
+.projetos{
     h1{
         font-size: 35px;
         padding: 10px;
@@ -20,79 +20,35 @@
          transition: 1s;
             color: white;
         background-position: 0;
-        
-        }
-     
+            }
     }
 
 
-
-
-div{
-
-
-
-
-    section{
-        padding: 30px;
+    div{
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
-        align-items: center;   
-        width: 80%;
-        margin: auto;
-
-
         img{
-        max-width: 150px;
-        max-height: auto;
-        margin: 10px;
+            width: 250px;
+            margin: 12px;
 
-        &:hover{
-            scale: 1.08;
-        }
-     
+            &:hover{
+                scale: 1.05;
+                border-radius: 20px;
+            }
         }
     }
-
-}
 }
 
-
-@media (max-width:600px){
-
-    .linguagem{
-    
+@media (max-width:700px){
+    .projetos{
+       
         width: 110%;
         margin: 5px;
-
-        h1{
-            font-size: 20px;
-
-            
-            }
-         
-    div{
-    
-    
-    
-    
-        section{
-            padding: 20px;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            align-items: center;   
-        
-            img{
-            max-width: 80px;
-            max-height: auto;
-            margin: 10px;
-         
-            }
-        }
-    
-    }
+  
+    h1{
+        font-size: 20px; 
     }
 
+}
 }

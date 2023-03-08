@@ -1,12 +1,32 @@
 .componenteUm{
     display: flex;
     justify-content: space-between;
+  align-items: center;
+
+    .componenteDois{
+      
+        width: 50%;
+    }
+   
 }
 
 @media (max-width:600px){
     .componenteUm{
         display: flex;
+        justify-content: space-between;
+        justify-content: center;
+
         flex-direction: column;
-    }
+        
+    
+        .componenteDois{
+          
+            width: 100%;
+           
+            flex-direction: column;
+        }
+       
+
+}
 
 }

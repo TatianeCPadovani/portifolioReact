@@ -5,10 +5,10 @@ function BarraNavegacao(){
     return(
         <div className={style.barraNavegacao}>
             
-            <button className={style.btnHome}>Inicio</button>
-            <button className={style.btnSobre}>Sobre</button>
-            <button className={style.btnLing}>Linguagens</button>
-            <button className={style.btnProjtos}>Projetos</button>
+           <a href="#inicio"> <button className={style.btnHome}>Inicio</button></a>
+            <a href="#sobre"><button className={style.btnSobre}>Sobre</button></a>
+           <a href="#linguegens"> <button className={style.btnLing}>Linguagens</button></a>
+            <a href="#projetos"><button className={style.btnProjtos}>Projetos</button></a>
 
         </div>
     )

@@ -1,20 +1,16 @@
 .divBotoesAux{
-
-width: 40%;
-display: flex;
-flex-direction: column;
-justify-content: center;
-
+    padding-top: 50px;
 
     div{
+        width: 100%;
         
-        display: flex;
-        justify-content: center;
-        
+        text-align: center;
+      
+  
         
         button{
             
-            height: 50px;
+            height: 40px;
             width: 100px;
             border: none;
 
@@ -24,18 +20,16 @@ justify-content: center;
             background-image: linear-gradient(450deg, grey 50%, transparent 50%);
             background-position: 100%;
             background-size: 400%;
-            -webkit-transition: background 300ms ease-in-out;
-            transition: background 300ms ease-in-out;
+            -webkit-transition:  300ms ease-in-out;
+            transition:  300ms ease-in-out;
          
            
         }
 
         .btnNoturno{
-            font-size: 30px;
+            font-size: 20px;
 
-            border-bottom: 1px solid black;
-            border-left: 1px solid black;
-            border-top: 1px solid black;
+         
 
             border-top-left-radius: 20px;
             border-bottom-left-radius: 20px;
@@ -48,11 +42,9 @@ justify-content: center;
 
         .btnBug{
 
-            font-size: 30px;
+            font-size: 20px;
             
-            border-bottom: 1px solid black;
-            border-right: 1px solid black;
-            border-top: 1px solid black;
+       
 
              border-top-right-radius: 20px;
              border-bottom-right-radius: 20px;
@@ -71,7 +63,7 @@ justify-content: center;
      button{
             margin: 20px;
             width: 100px;
-            border: 1px solid black;
+         
             border-radius: 20px;
 
 
@@ -83,19 +75,6 @@ justify-content: center;
         }
     }
 
-    .fourth {
-        border-color: #f1c40f;
-        color: #fff;
-        background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
-        background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
-        background-position: 100%;
-        background-size: 400%;
-        -webkit-transition: background 300ms ease-in-out;
-        transition: background 300ms ease-in-out;
-      }
-      .fourth:hover {
-        background-position: 0;
-      }
 
 
 
@@ -105,22 +84,23 @@ justify-content: center;
 @media (max-width:600px){
 
     .divBotoesAux{
-
-        width: 100%;
+     
+      
         display: flex;
         flex-direction: row;
         align-items: center;
-        
-        
+        width: 110%;
+    
             div{
                 
                 display: flex;
                 justify-content: center;
-                
+               
                 
                 button{
                     width: 70px;
                     border: none;
+                   
 
                 }
         
